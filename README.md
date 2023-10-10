@@ -14,6 +14,7 @@ I used java to implement a 2D tile-based world exploration engine, which is a 2D
 - **Rename**: You view the name of the avatar by moving your mouse on it. You can change the name of the avatar in the menu window.
 - **Others**:
     - You can turn on/off lights during the game.
+    - You can turn enable/disable the line of sight during the game.
     - Each room is colored during world creation.
 
 
@@ -23,7 +24,12 @@ Open byow folder in your IDE, select SDK which is Java 17 or higher. Also includ
 <img src="imgs\window.png" width="400" height="240">
 
 - Type N, then enter a number, then type S to create a new world.
-- 
+- Type L to load a previously saved game.
+- Type S to change the name of avatar.
+- During the game, type :Q to save and terminate the program.
+- During the game, W: move up, S: move down, A: move left, D: move right.
+- During the game, press l to enable/disable the line of sight.
+- During the game, press o to turn on/off the light.
 
 
 
