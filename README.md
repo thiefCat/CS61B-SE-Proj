@@ -4,6 +4,6 @@ with the objects in that world.
 
 ## How to run
 Open byow folder in your IDE, select SDK which is Java 17 or higher. Also include the Library library-sp23 to the project. Navigate to byow/Core/Main, and run it, then a window will show up:
-
+<img src="imgs\window.png" width="200" height="200">
 
 
