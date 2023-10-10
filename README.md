@@ -30,6 +30,7 @@ Open byow folder in your IDE, select SDK which is Java 17 or higher. Also includ
 - During the game, W: move up, S: move down, A: move left, D: move right.
 - During the game, press l to enable/disable the line of sight.
 - During the game, press o to turn on/off the light.
+- If you reach the blue tile, you win the game!
 
 
 
