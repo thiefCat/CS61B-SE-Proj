@@ -6,7 +6,7 @@ I used java to implement a 2D tile-based world exploration engine, which is a 2D
 
 ## Features
 
-<img src="imgs\screen.png" width="500" height="240">
+<img src="imgs\screen.png" width="750" height="360">
 
 - **Ramdom World**: You can generate a world using a seed. Each seed, e.g., 123, 777, corresponds to a different world.
 - **Heads Up Display**: You can move the mouse around, and a HUD(Heads Up Display) will be displayed showing which object you are pointing at.
