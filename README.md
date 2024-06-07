@@ -2,7 +2,7 @@
 This is the Project 3 (Software Engineering) of CS61B in UC Berkeley.
 
 ## Introduction
-I used java to implement a 2D tile-based world exploration engine, which is a 2D world where users can interact with the objects in that world. The world consists of rooms, hallways, doors, and a exit. You can move the avatar around in the world.
+I used java to implement a 2D tile-based world exploration engine, which is a 2D world where users can interact with the objects in it. The world consists of rooms, hallways, doors, and a exit. You can move the avatar around in the world.
 
 ## Features
 
